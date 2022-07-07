@@ -5,7 +5,6 @@
       "id": "relfo1xk7sl",
       "user_id": 56370549,
       "content": "Bình yên ",
-      "status": 1,
       "counts": {
         "view_count": 1083,
         "share_count": 0,
@@ -15,8 +14,6 @@
       "create_time": 1657101457,
       "update_time": 1657101457,
       "post_type": 2,
-      "target": "user:56370549",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -62,67 +59,9 @@
       "react_status": 0
     },
     {
-      "id": "relcnh1g",
-      "user_id": 52,
-      "content": "THANH HÓA: TÌM THẤY THI THỂ NAM SINH 2K5 ĐI TẮM SÔNG BỊ ĐUỐI NƯỚC TRƯA QUA TẠI TRIỆU SƠN \r\n\r\nKhoảng 12 giờ trưa 5/7, cháu LĐM (SN 2005) cùng với 5 người bạn đến tắm sông Hoàng Giang (xã Khuyến Nông, Triệu Sơn). Sau đó các bạn lần lượt lên bờ nhưng không thấy cháu LĐM.\r\n\r\nSau khi nhận được tin báo, Trung tâm Thông tin chỉ huy 114, Phòng Cảnh sát Phòng cháy Chữa cháy và Cứu nạn Cứu hộ, Công an tỉnh Thanh Hóa đã điều động 15 cán bộ, chiến sĩ, cùng phương tiện đến hiện trường triển khai công tác tìm kiếm.\r\n\r\nTuy nhiên, đêm qua, rạng sáng nay trời mưa to, nước sông dâng cao, có nơi sâu đến 5 - 6m, nước chảy siết, nhiều chướng ngại vật đổ ra lòng sông, cản trở công tác tìm kiếm. Lực lượng chức năng đã triển khai thợ lặn, đồng thời, phối hợp người dân tìm kiếm tại các khu vực bụi tre vươn ra dòng sông, che chắn dòng chảy và quăng lưới để tìm kiếm nạn nhân nhanh nhất.\r\n\r\nĐến 9h30 phút sáng nay, thi thể nạn nhân đã được các cán bộ chiến sỹ cứu nạn cứu hộ và người dân địa phương tìm thấy cách vị trí đuối nước khoảng 30m về phía hạ lưu.\r\n\r\nHiện, lực lượng chức năng đã đưa thi thể nạn nhân vào bờ bàn giao cho gia đình và chính quyền địa phương.",
-      "status": 1,
-      "counts": {
-        "view_count": 1328,
-        "share_count": 0,
-        "comment_count": 0,
-        "react_count": 565
-      },
-      "create_time": 1657097549,
-      "update_time": 1657097549,
-      "post_type": 4,
-      "target": "user:52",
-      "privacy": 1,
-      "mediaData": [
-        {
-          "type": "image",
-          "image_id": "c3e63038-bfcf-4723-8159-23e0919e2044",
-          "store": "image-5.gapo.vn",
-          "path": "images/c3e63038-bfcf-4723-8159-23e0919e2044.jpeg",
-          "src": "https://image-5.gapo.vn/images/c3e63038-bfcf-4723-8159-23e0919e2044.jpeg",
-          "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/c3e63038-bfcf-4723-8159-23e0919e2044.jpeg",
-          "width": 1200,
-          "height": 899
-        },
-        {
-          "type": "image",
-          "image_id": "798b9cb5-c04a-48ca-87d0-39d3428d0486",
-          "store": "image-5.gapo.vn",
-          "path": "images/798b9cb5-c04a-48ca-87d0-39d3428d0486.jpeg",
-          "src": "https://image-5.gapo.vn/images/798b9cb5-c04a-48ca-87d0-39d3428d0486.jpeg",
-          "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/798b9cb5-c04a-48ca-87d0-39d3428d0486.jpeg",
-          "width": 1200,
-          "height": 900
-        },
-        {
-          "type": "image",
-          "image_id": "9e72a598-73aa-4e37-ae52-f002beafc4b1",
-          "store": "image-5.gapo.vn",
-          "path": "images/9e72a598-73aa-4e37-ae52-f002beafc4b1.jpeg",
-          "src": "https://image-5.gapo.vn/images/9e72a598-73aa-4e37-ae52-f002beafc4b1.jpeg",
-          "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/9e72a598-73aa-4e37-ae52-f002beafc4b1.jpeg",
-          "width": 1200,
-          "height": 900
-        }
-      ],
-      "user": {
-        "id": 52,
-        "display_name": "Mr Nguyễn",
-        "cover": "https://image-5.gapo.vn/images/dc1bbd46-3fde-4009-a677-4892c5cec8d4.jpeg",
-        "avatar": "https://image-5.gapo.vn/images/0d1e42ab-68a3-472d-80bc-42c2edd0cff7.jpeg"
-      },
-      "comments": [],
-      "react_status": 0
-    },
-    {
       "id": "rela3jx31jfj",
       "user_id": 2000494495,
       "content": "Một quán cafe nhỏ yên bình nằm nghe sóng vỗ ở Phan Thiết 🌊🏄♂️\n—-\n📸 Ảnh siêu xinh của bạn Cường Quốc Phạm\n\n#CheckinVietNam #CheckinPhanThiet #Chin",
-      "status": 1,
       "counts": {
         "view_count": 12,
         "share_count": 0,
@@ -132,8 +71,6 @@
       "create_time": 1657094239,
       "update_time": 1657094239,
       "post_type": 4,
-      "target": "page:1774723903490967560",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -292,7 +229,6 @@
       "id": "rel9sqx31jfj",
       "user_id": 2000494495,
       "content": "Đến Hàn Quốc nhớ đi thử chuyến tàu có view đẹp như phim này!! \n\nNói là đẹp như phim vì Haeundae Blueline Park chạy trên đường ray ôm lấy bờ biển phía Đông Nam thành phố khiến chúng ta có thể ngắm toàn cảnh biển xanh trong vắt từ trước mặt, đằng trước, đằng sau khoang ngồi và cả những thị trấn, hải cảng ven biển nữa  🌊🌅 \n\nBờ biển ở đây tuyệt đẹp rồi, lại thêm những khoảnh khắc bình minh hoặc hoàng hôn nữa càng khiến cho chuyến tàu Haeundae Blueline Park thêm lý tưởng và được nhiều bạn trẻ mua vé đi thử. \n\nTàu sẽ đi từ ga Mipo và kết thúc ở Songjeong với tổng quãng đường chỉ 4.8km. Bạn có thể chọn dịch vụ Beach train hoặc Sky capsule cho 1 hoặc cả 2 chiều đi và về nhưng lí tưởng nhất là sử dụng combo cả 2 để gấp đôi trải nghiệm nha 🤘 Tàu đi khá chậm, mất 30p để hoàn thành 1 chiều nên không lo bị say xe đâu. \n\nChúng mình nên đi vào 5h30 6h00 để được ngắm hoàng hôn rực rỡ từ trên tàu nha ^^\n\n(ảnh: rereon_, onlyxwon, hyoshinkwak, abroadmagazine_kr, parkhyattbusan, h.woni67)\n#CheckinVietnam #Korea #HaeundaeBluelinePark #nan",
-      "status": 1,
       "counts": {
         "view_count": 23,
         "share_count": 0,
@@ -302,8 +238,6 @@
       "create_time": 1657093851,
       "update_time": 1657093851,
       "post_type": 4,
-      "target": "page:1774723903490967560",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -462,7 +396,6 @@
       "id": "rel9pax31jfj",
       "user_id": 2000494495,
       "content": "Biểu hiện của 1 tình bạn bền chặt 😌 \nHôm nào nắng nóng mà không ra đường thì đời không nể :))\n\nCre ảnh gốc: Bạn nào biết nguồn cho mình xin nha ^^ \n#CheckinVietnam #nan",
-      "status": 1,
       "counts": {
         "view_count": 27,
         "share_count": 0,
@@ -472,8 +405,6 @@
       "create_time": 1657093726,
       "update_time": 1657093726,
       "post_type": 4,
-      "target": "page:1774723903490967560",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -552,7 +483,6 @@
       "id": "rel8wax31jfj",
       "user_id": 2000494495,
       "content": "Cơm gà xào cay ở đâu ngon vậy mọi người ơi",
-      "status": 1,
       "counts": {
         "view_count": 10,
         "share_count": 0,
@@ -562,8 +492,6 @@
       "create_time": 1657092682,
       "update_time": 1657092682,
       "post_type": 1,
-      "target": "page:1774723903490967560",
-      "privacy": 1,
       "mediaData": [],
       "user": {
         "id": 56370549,
@@ -601,7 +529,6 @@
       "id": "rel16sxk7sl",
       "user_id": 56370549,
       "content": "Ngày mai bắt đầu thi, lo quá. ",
-      "status": 1,
       "counts": {
         "view_count": 1456,
         "share_count": 0,
@@ -611,8 +538,6 @@
       "create_time": 1657082692,
       "update_time": 1657082692,
       "post_type": 2,
-      "target": "user:56370549",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -674,7 +599,6 @@
       "id": "rekw0jxk7sl",
       "user_id": 56370549,
       "content": "Đố ai biết hoa gì ",
-      "status": 1,
       "counts": {
         "view_count": 1803,
         "share_count": 0,
@@ -684,8 +608,6 @@
       "create_time": 1657075987,
       "update_time": 1657075987,
       "post_type": 2,
-      "target": "user:56370549",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -734,7 +656,6 @@
       "id": "rekst4x31hse",
       "user_id": 2000492366,
       "content": "Nhìn mặt mấy chiếc mèo này khoái ghê",
-      "status": 1,
       "counts": {
         "view_count": 1143,
         "share_count": 0,
@@ -744,8 +665,6 @@
       "create_time": 1657071832,
       "update_time": 1657071832,
       "post_type": 3,
-      "target": "page:1777539357763389426",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "video",
@@ -801,7 +720,6 @@
       "id": "reklt9x31jfj",
       "user_id": 2000494495,
       "content": "Nhà em có đặt vé HN - Bangkok \nĐi: bay VJ ngày 19/7: giờ bay 12h15 \nNgày về 23/7: giờ bay 15h\nGiờ có thêm 1 người đi nhưng không đủ vé. Nên có ai đặt vé khoảng thời gian này hoặc sớm hơn nhưng không đi được thì có thể pass lại cho em được không ạ? Em cảm ơn ạ",
-      "status": 1,
       "counts": {
         "view_count": 27,
         "share_count": 0,
@@ -811,8 +729,6 @@
       "create_time": 1657062765,
       "update_time": 1657062765,
       "post_type": 1,
-      "target": "page:1774723903490967560",
-      "privacy": 1,
       "mediaData": [],
       "user": {
         "id": 56370549,
@@ -850,7 +766,6 @@
       "id": "rejumgxk7sl",
       "user_id": 56370549,
       "content": "Về đây với đường tàu ",
-      "status": 1,
       "counts": {
         "view_count": 112,
         "share_count": 0,
@@ -860,8 +775,6 @@
       "create_time": 1657027528,
       "update_time": 1657027528,
       "post_type": 2,
-      "target": "user:56370549",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -887,7 +800,6 @@
       "id": "rejq9mx31jfj",
       "user_id": 2000494495,
       "content": "Nghe dân tình đồn đã lâu nay mới được trải nghiệm. Ngon lém mng ơi xắn đến đâu socola đến đoá, fan socola hem nên bỏ qua ạ 😋\nBánh after you này mình thấy để tủ lạnh ngon hơn vì đỡ ngọt mà cũng không bị khô 😀",
-      "status": 1,
       "counts": {
         "view_count": 51,
         "share_count": 0,
@@ -897,8 +809,6 @@
       "create_time": 1657021882,
       "update_time": 1657021882,
       "post_type": 2,
-      "target": "page:1774723903490967560",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -947,7 +857,6 @@
       "id": "rejq1px31jfj",
       "user_id": 2000494495,
       "content": "Cho mình hỏi về vuệc mua thêm hành lý ký gửi của hãng Airasia , chiều BKK về DN\nMình nhập vào mua của web hãng nhưng khi thanh toán lại ko đc.\nVậy còn phương án nào ạ\nNếu mua tận sân bay thù giá ntn ạ \nCám ơn",
-      "status": 1,
       "counts": {
         "view_count": 27,
         "share_count": 0,
@@ -957,8 +866,6 @@
       "create_time": 1657021597,
       "update_time": 1657021597,
       "post_type": 1,
-      "target": "page:1774723903490967560",
-      "privacy": 1,
       "mediaData": [],
       "user": {
         "id": 56370549,
@@ -996,7 +903,6 @@
       "id": "rejk13x31jbi",
       "user_id": 2000494350,
       "content": "Nếu ngoài kia nhiều bão tố, thì về đây với em.",
-      "status": 1,
       "counts": {
         "view_count": 10,
         "share_count": 0,
@@ -1006,8 +912,6 @@
       "create_time": 1657013800,
       "update_time": 1657013800,
       "post_type": 2,
-      "target": "user:2000494350",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -1056,7 +960,6 @@
       "id": "rejj0dxk7sl",
       "user_id": 56370549,
       "content": "Bao giờ cho đến mùa thu? ",
-      "status": 1,
       "counts": {
         "view_count": 1498,
         "share_count": 0,
@@ -1066,8 +969,6 @@
       "create_time": 1657012477,
       "update_time": 1657012477,
       "post_type": 2,
-      "target": "user:56370549",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -1093,7 +994,6 @@
       "id": "rejbbwxk7sl",
       "user_id": 56370549,
       "content": "Ảnh hưởng của cơn bão số 1",
-      "status": 1,
       "counts": {
         "view_count": 116,
         "share_count": 0,
@@ -1103,8 +1003,6 @@
       "create_time": 1657002524,
       "update_time": 1657002524,
       "post_type": 2,
-      "target": "user:56370549",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -1153,7 +1051,6 @@
       "id": "rej9oyx31jfj",
       "user_id": 2000494495,
       "content": "Ăn và ở tại Santorini, Greece ( 6/2022)\n\nMùa du lịch cao điểm tại Santorini là tháng 7 và tháng 8. Do vậy, giá phòng thường đắt nhất trong những tháng này và bạn cần giữ phòng trước càng xa càng tốt. Theo mình giữa tháng 9 là tháng tốt nhất vì thời tiết còn ấm mà không nóng quá, phòng sẽ rẻ hơn nhiều vì học trò các nơi đều trở lại trường học. \n\nHai nơi thường được du khách chọn để ở khi thăm Santorini là Fira và Oia. \nFira là thủ đô của Santorini và thị trấn lớn nhất của Santorini. Từ Fira có hệ thống xe buýt (xe có máy lạnh, trông khá tôí tân, vé rẻ) đi khắp đảo, rất tiện lợi. Trung tâm Fira cách phi trường của Santorini (JTR) nếu đi xe buýt vào trung tâm chỉ mất 1 euro 80 ( khoảng 2 US dollars). Nếu đi taxi thì mất khoảng 20 Euros hay hơn. Đi xe buýt tới Oia cũng mất từ vài euros thôi. (Hiện tại tiền Mỹ rất mạnh, gần ngang ngửa đồng Euro. 1 Euro chỉ bằng 1.05 US dollars). Mình đi xe shuttle do khách sạn đón mất 35 Euros, mất khoảng 1/2 tiếng nhưng họ lại tham kiếm khách thêm nên phải chờ thêm nửa tiếng nữa! \nFira có nhiều Shopping và về tối vui hơn Oia hay những làng khác ở Santorini như Imerovigli. Khách sạn ở đây giá cả cũng nhẹ nhàng hơn ở Oia. Lần đầu năm 2015 mình booked trước 3 tháng được một khách sạn ở cũng được lắm cho 3 đêm, tuy khách sạn không có gì là fancy, nhưng cũng có đủ tiện nghi, có 2 giường, máy lạnh, gần chợ, gần bến xe đò, gần đủ thứ cả, chỉ không có thang máy, mà chỉ có $45/ 1 đêm cho 2 người vào đầu tháng 6. Cách đây một tháng mình checked thì giá bây giờ khoảng $100 US kể cả thuế và fees. Nếu bạn chọn khách sạn này thì phải book sớm trước vài tháng mới còn chỗ vì những KS rẻ hết phòng rất sớm. Hotel tên Leta, phone 228-60-22-540). \n\nTháng 6 năm nay thì mình chọn ở Oia cho thay đổi. Oia là một làng nổi tiếng nhất để ngắm mặt trời lặn, gồm có những toà nhà quét vôi trắng và những Blue Domes ( maí vòm màu xanh nước biển), biểu tượng của Santorini mà bạn thường thấy trên postcards. Oia cũng có nhiều khách sạn và resorts rất fancy (như các bạn đã thấy qua post của người đẹp Anh Hwang trong nhóm mình) giá có thể từ $500 tới vài ngàn đô tùy mùa, nhiều tiệm ăn có view nhìn caldera rất thơ mộng và các cửa hàng bán đồ sang. \nOia thật ra rất nhỏ gọn. Điểm du lịch chính là con đường chính tên Nikolaou Nomikou, chạy dọc theo vành vách đá ven biển gồm nhiều tiệm bán hàng và tiệm ăn lúc nào cũng đông vui, tấp nập du khách. Đường này chỉ dành cho khách bộ hành. Đi dạo ở đây vừa vui vừa có được cái nhìn đẹp của biển. \nĐường sẽ dắt tới Blue Dome, Byzantine Castle và Amoudi Bay là những địa điểm chụp hình nổi tiếng ở Oia mà các bạn đã thấy hình mình chụp trong post trước. \nBạn có thể đi tàu để thăm vài bãi biển ở đây như Red Beach, Black Beach vân vân ... nhưng mình không đi vì xem Travel Blog của bạn Tử Kỳ nói tàu thường bỏ khách ở xa bờ, phải lội nước khá sâu để tới bãi nên mình không thích. Vả lại mình cũng không thiết tắm biển nên không đi tới những bãi biển ở đây. \nVề chỗ ở, Santorini khá đắt đỏ. Mình thì chủ trương không muốn chi tiêu nhiều tiền cho khách sạn. Mình chỉ cần phòng đâỳ đủ tiện nghi để được thoải mái và dễ chịu thôi và có vị trí ở trung tâm. Taxi ở đây không có nhiều và không rẻ. Do vậy, mình đã chọn chỗ ở này. Mình đã giữ chỗ trước 3 tháng gặp hôm họ đang sale rẻ nên được giá $170/1 đêm. Khách sạn này tên Oias Sunset , có thể đi bộ trong vòng 5, 10 phút tới hầu hết các điểm du lịch chính ( đi 1/3 mile là tới con đường chính, 250 m tới bến xe buýt, 1/2 mile tới Blue Dome và Byzantine castle và hơn 1/2 mile là Amoudi Bay, một địa danh nổi tiếng khác để ngắm mặt trời lặn), gần chợ, gần nhiều tiệm ăn ngon và các cửa hàng. Mình yêu cầu được ở trên lầu cao vì mình muốn yên tĩnh. Chỗ ở của mình có nhà bếp với ít dụng cụ để nấu ăn, phòng ngủ, phòng ăn, phòng tắm, phòng nào cũng rất sáng sủa vì có nhiều cửa sổ. Có bao lơn và ghế ngồi để ngắm cảnh nhưng mình cũng chẳng có thời giờ ngồi ngắm bao giờ vì bước ra khỏi ks là cảnh sinh hoạt đặc trưng của Santorini đã tưng bừng náo nhiệt trước mắt đã chiếm hết thời gian của mình rồi! Chỉ có điểm ông xã mình không thích là giường ngủ không có comforter như bên Mỹ mà chỉ có một cái mền nhỏ mỏng làm bằng loại vải gì đó đắp không thấy dễ chịu nên ông ấy không ngủ ngon giấc như ở nhà (riêng mình thì tuy không thích nhưng đi bộ nhiều ban ngày rồi nên đêm ngủ ngon như thường!) \nÀ nói tới chuyện đi bộ. Các bạn nên mang giày dép tốt, hoặc đi giày thể thao là hay nhất vì ở đây đi lên đi xuống nhiều, nếu chụp hình lại phải trèo lên trèo xuống mấy mỏm đá hay mấy bậc thang nên mỏi chân lắm đấy. Nếu điệu nghệ thì chỉ mang giày cao gót lúc chụp hình thôi nhé 😊xong là đi giày đi bộ êm vào mới survive được!\n\nBàn về chuyện ăn uống ở Oia. Ăn uống mà không đòi hỏi cầu kỳ thì ở đây ăn khá rẻ. Santorini là đảo nên có nhiều đồ biển. Mình chủ trương ăn cá cho lành nên đi đâu cũng hay gọi món cá. Ngay cả quán ăn bình dân đều có món cá nướng, phổ thông nhất là loại sea bass hay bream. Mình có ăn ở một quán ngay chỗ xe buýt đâụ, tiệm này có món cá nướng khá ngon, con cá bự và tươi, một người ăn ít như mình thì thấy dư, giá cả rất phải chăng 13 Euros ( có chụp hình dưới đây). Còn thịt người Hy Lạp thường nướng ( sườn thịt cừu thường có giá cao nhất), mình thấy họ nướng hơi khô dù họ chỉ bắt đầu nướng khi mình đặt, phải chờ khoảng 20 phút. Mình đã ăn mot đĩa combo đủ loại thịt, gà, bò, sườn heo, cừu, tại một tiệm ở bến xe buýt, tên Niko vì xem YouTube nói là ngon và rẻ nhưng rẻ thì có mà ngon thì không vì thấy khô và gia vị ướp thịt hay sườn không có gì đặc biệt cả. Vì vậy nên tuy nướng than mà không thơm ngon. \nNgười Hy Lạp không ăn nhiều rau. Thường chỉ có món Salad. Mình không hảo món Greek Salad chủ yếu là cà chua tươi và Greek cheese gọi là “Feta cheese” ( làm bằng sữa dê) ăn không giống như loại cheese mình thường ăn làm bằng sữa bò và ớt chuông ( bell pepper) và dưa leo ( cucumber). \nDo vậy nếu bạn thích ăn nhiều thịt thì chắc sẽ được ăn no mà rẻ hơn các thành phố lớn ở châu Âu. \nTuy nhiên đã tới Oia thì cũng phải ăn tối ở một tiệm ăn sang trọng có view đẹp. Trước khi đi, mình đã nghiên cứu về các quán ăn ngon mà có view đẹp ở đây và làm ra một danh sách gồm 8 tiệm. Tiệm nào cũng gần khách sạn mình ở cả chỉ đi bộ khoảng nửa mile là tới. Muốn có chỗ ngồi tốt thì phải book trước ít nhất vài ngày. Có tiệm như  Kastro còn bắt phải ăn ít nhất một người 45 euros mới cho giữ chỗ! Cuối cùng mình lựa lọc ra một tiệm xem reviews khách đều khen cảnh đẹp và ăn ngon tên Feredini, ở ngay gần chỗ mình hẹn nhiếp ảnh gia, trên đường đi bộ chính ở Oia. Tiệm đẹp thật và món ăn cũng rất ngon. Giá cả cũng phải chăng. Mình có chụp hình menu cho các bạn xem đây. Mình ăn món cá, làm có vẻ cầu kỳ. Ông xã ăn món thịt bò cũng lạ miệng và ngon. Mình giữ chỗ trước xin ngồi ở Terrace để có view nhìn biển, Caldera và mặt trời lặn nhưng đến nơi mới biết là không thấy được mặt trời lặn trên biển ở đây vì bị che bởi những toà nhà Shopping nhưng cũng thấy view biển. Nếu bạn chọn tiệm này thì nhớ yêu cầu được ngồi ở Main Terrace view đẹp nhất. Cô bồi bàn cho mình biết khách nào giữ chỗ trước nhất sẽ được xếp bàn ngồi ở Main Terrace, sau đó sẽ tới Upper Terrace như bàn mình ngồi, không đẹp bằng!😔( mình đặt bàn trước vài ngày thôi!) \nThoạt đầu mình đã đặt bàn ở một tiệm ăn khác tên Elinikon, có lẽ rẻ hơn và phần ăn nhiều hơn và sẽ được ngắm hoàng hôn vì khu đó gần Blue Dome & Byzantine Castle hơn nhưng sau lại bỏ vì thấy món ăn ở Feredini có thể ngon hơn. Cũng may vì ngày hôm sau mình đi bộ tìm thử tiệm Elinikon thì không taì nào tìm ra dù theo địa chỉ nằm trên đường đi bộ chính của Oia Nikolaou Nomikou và Google map trong I phone của mình đã nói tới nơi rồi mà chẳng trông thấy tiệm đâu mới lạ! Vậy nên bạn có reserve ở tiệm ăn nào nên đi tìm trước nhé xem nó ở đâu cho chắc ăn. Các tiệm ăn đều nói nếu đến trễ sau giờ hẹn 15 phút thì họ sẽ không thể giữ bàn cho mình được đấy! \nNăm 2015 thì mình ăn tại một tiệm ở Amoudi Bay vì theo cuốn sách du lịch mình đọc nói là ngồi đây ngắm mặt trời lặn rất đẹp vì mặt trời lặn sẽ xuống ngang với mực nước biển. Và cá rất tươi sống. Mình chỉ con nào đang bơi lội trong hồ cá thì họ sẽ bắt lên và cân tại chỗ cho mình. Tuy nhiên ăn thấy cá tôm cũng trên mức trung bình thôi chứ không chế biến gì đặc sắc cả! Mà cũng đắt chứ không rẻ. Lúc về mình phải gọi Taxi chở về Fira vì leo nhiều bực thang để đi lên cũng mệt mà tối quá sợ xe buýt cũng chẳng còn! \n\nÀ mình cũng tìm được một tiệm ăn Thái Lan, giá rất phải chăng, tiệm lịch sự và sạch sẽ, ăn khá ngon. Gần bến xe buýt. Mình không thấy tiệm bán đồ ăn A châu nào khác ở Oia ngoài một tiệm Tàu trông có vẻ không hấp dẫn! \n\nTóm tắt lại thì theo mình thấy đi du lịch tự túc ở Santorini cũng không có gì là khó cả. Hồi năm 2015 trước khi đi Greece mình thấy ngại quá vì cứ nhìn chữ viết ngoằn nghèo của họ là mình sợ rồi nhưng thực tế là đi đâu cũng có phụ đề bằng tiếng Anh và dân địa phương đa số đều biết tiếng Anh và sẵn lòng chỉ dẫn cho mình. Kinh tế đảo này dựa trên lợi nhuận về du lịch nên mọi người đều thân thiện và mình cảm thấy thoải mái, an tâm không sợ bị trộm cắp như ở nhiều thành phố lớn ở châu Âu.  \n\nCó người quen đi cruise ghé Santorini nói với mình được xuống tàu đến Santorini được thì đã 10 giờ sáng, tới 3 giờ chiều đã phải lo có mặt ở trên tàu nên không đủ thời gian để rong chơi. Ai cũng nói ước mong được đi lại một lần nữa và ở qua đêm cho đã! ( Mình thì chính mắt thấy lúc khoảng hơn 10 giờ, đường đi bộ chính của Oia đông nghẹt người, chen nhau mà đi, có lẽ vì những đoàn người trên các cruise ships đã tới. Mình không hiểu đông như vậy thì làm sao mà tìm chỗ chụp hình được ? Nên nhớ là những chỗ chụp hình đẹp ở Oia là phải cuốc bộ tới, chứ không có đường xe chạy thẳng tới đâu). Vậy các bạn cũng nghĩ xem có nên đi cruise không nhé! Mình thích được thong thả để thưởng thức cảnh vật nên chưa bao giờ đi cruise châu Âu cả.",
-      "status": 1,
       "counts": {
         "view_count": 1515,
         "share_count": 0,
@@ -1163,8 +1060,6 @@
       "create_time": 1657000402,
       "update_time": 1657000402,
       "post_type": 4,
-      "target": "page:1774723903490967560",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -1323,7 +1218,6 @@
       "id": "rej93h2xnqzz",
       "user_id": 177467759,
       "content": "🍵 ",
-      "status": 1,
       "counts": {
         "view_count": 1006,
         "share_count": 0,
@@ -1333,8 +1227,6 @@
       "create_time": 1656999629,
       "update_time": 1656999629,
       "post_type": 4,
-      "target": "user:177467759",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -1394,7 +1286,6 @@
       "id": "rej4coxk7sl",
       "user_id": 56370549,
       "content": "Hôm nay có phải thứ ba không nhỉ, vì hôm qua là thứ hai? ",
-      "status": 1,
       "counts": {
         "view_count": 1688,
         "share_count": 0,
@@ -1404,8 +1295,6 @@
       "create_time": 1656993480,
       "update_time": 1656993480,
       "post_type": 2,
-      "target": "user:56370549",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -1454,7 +1343,6 @@
       "id": "rej36cx31hse",
       "user_id": 2000492366,
       "content": "Nóng quá rồi! Cạo lông thôi",
-      "status": 1,
       "counts": {
         "view_count": 3458,
         "share_count": 0,
@@ -1464,8 +1352,6 @@
       "create_time": 1656991956,
       "update_time": 1656991956,
       "post_type": 3,
-      "target": "page:1777539357763389426",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "video",
@@ -1521,7 +1407,6 @@
       "id": "reiz5gx31jfj",
       "user_id": 2000494495,
       "content": "Chào mọi người,\nSau khi đọc bài chia sẻ của nhiều bạn đi chơi Pháp - Thuỵ Sĩ - Ý đợt hè này thì gia đình mình cũng rất muốn đi. Mình mới lên lịch trình cho gia đình mình 4 người lớn với như bên dưới. Bạn nào nhận host được vui lòng cho mình xin thông tin nhé.\n07 - 11/8 (4 đêm): Paris\n11 - 12/8 (1 đêm): Zurich\n12 - 15/8 (3 đêm): Lucerne - Interlaken\n15 - 17/8 (2 đêm): Venice\n17 - 19/8 (2 đêm): Vienna\n19 - 21/8 (2 đêm): Budapest\nVì mình đi với bố mẹ có tuổi nên mong muốn vị trí di chuyển dễ dàng đến các điểm tham quan ^^. Các bạn tư vấn giúp mình xem đã hợp lý chưa và có những lưu ý gì khi đến đó không nhé.\nCảm ơn các bạn.",
-      "status": 1,
       "counts": {
         "view_count": 27,
         "share_count": 0,
@@ -1531,8 +1416,6 @@
       "create_time": 1656986740,
       "update_time": 1656986740,
       "post_type": 2,
-      "target": "page:1774723903490967560",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -1558,7 +1441,6 @@
       "id": "reiz0yx31jfj",
       "user_id": 2000494495,
       "content": "Hôm nay tốn gần 200Bt ra #China #Twon  rồi lặng lẽ đi về , mình vừa đáp  BK lúc 6h tối, k biết chỗ nào chơi đông vui , lâu quá k đi trở lại quê như con gà mờ, mn có ai đang BK chỗ nào vui chỉ mình vớii🥹",
-      "status": 1,
       "counts": {
         "view_count": 25,
         "share_count": 0,
@@ -1568,8 +1450,6 @@
       "create_time": 1656986578,
       "update_time": 1656986578,
       "post_type": 2,
-      "target": "page:1774723903490967560",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -1618,7 +1498,6 @@
       "id": "reigafx31jfj",
       "user_id": 2000494495,
       "content": "❤️🔥 Hi mọi người ạ, ❤️🔥\n\n❤️🔥 Tuần tới em có tới Prague (Charles Uni) học 1 tháng hè, không biết thủ tục nhập cảnh của Czech đợt này có gì cần lưu ý không ạ? Em là sinh viên ở UK và từ UK bay qua ạ.\n\n❤️🔥 Em không xin kịp Schengen của Czech, nên đi bằng Schengen của Pháp và nhập cảnh vào Czech là nước đầu tiên thì có sao không ạ? \n(Sau Czech thì em vẫn có qua Pháp luôn và ở 20 ngày ạ)\n\n❤️🔥 Em xin Schengen của Pháp nhưng điểm đầu là Czech và điểm cuối là Greece (Pháp ở giữa) thì liệu có sao không ạ?\n\nEm cảm ơn nhiều và Chúc mọi người một cuối tuần vui vẻ ạ ❤️",
-      "status": 1,
       "counts": {
         "view_count": 14,
         "share_count": 0,
@@ -1628,8 +1507,6 @@
       "create_time": 1656962295,
       "update_time": 1656962295,
       "post_type": 2,
-      "target": "page:1774723903490967560",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -1678,7 +1555,6 @@
       "id": "reidjpx31jfj",
       "user_id": 2000494495,
       "content": "Chuyến du lịch 3 ngày 2 đêm ở Thuỵ Sĩ🇨🇭\nMình post hình ảnh theo lịch trình mình đã đi, chuyến đi ngắn ngày nên mình bỏ qua vài địa điểm. \n\nThuỵ Sĩ ngoài “đẹp” ra thì người dân còn rất “thân thiện” nữa 🥰 nên rất đáng để quay lại ạ. 🙆🏻♀️❤️🇨🇭",
-      "status": 1,
       "counts": {
         "view_count": 17,
         "share_count": 0,
@@ -1688,8 +1564,6 @@
       "create_time": 1656958741,
       "update_time": 1656958741,
       "post_type": 4,
-      "target": "page:1774723903490967560",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -1848,7 +1722,6 @@
       "id": "reiblex31jfj",
       "user_id": 2000494495,
       "content": "E cần mua đồ ở SiamSquare có bạn nào đang ở Thái nhận xách về ko ạ 🥰",
-      "status": 1,
       "counts": {
         "view_count": 12,
         "share_count": 0,
@@ -1858,8 +1731,6 @@
       "create_time": 1656956210,
       "update_time": 1656956210,
       "post_type": 1,
-      "target": "page:1774723903490967560",
-      "privacy": 1,
       "mediaData": [],
       "user": {
         "id": 56370549,
@@ -1897,7 +1768,6 @@
       "id": "reibakx31jfj",
       "user_id": 2000494495,
       "content": "SỬ DỤNG THẺ CƯ TRÚ THAY THẾ HỘ CHIẾU ĐƯỢC KHÔNG?\nĐọc nhiều bài của nhóm mình chia sẻ về du lịch thì thấy mê mà cũng nhiều chiêu trò trộm cắp - lừa đảo - cướp giật nên cũng ngán vụ mất giấy tờ. Nhà mình cho hỏi nếu có thẻ cư trú (tạm thời) ở Pháp, thì đi du lịch các nước Châu Âu cầm thẻ này mà không mang theo hộ chiếu được không? \n2. Mình có thẻ cư trú này thì ko mua được Eurail phải không ah, mà chỉ được mua Interail gì thôi phải không cả nhà.\n3. Di chuyển từ Pháp (Reims hoặc Paris) qua Ý (Rome & Venice) thì nên đi phương tiện gì cho thuận tiện và giá hạt dẻ nhất ah. Cả nhà ai có kinh nghiệm chia sẻ giúp với ah. Vì cũng mong muốn đi một số nước khác trong tháng nữa, nên cũng cân nhắc mua vé ở mục số 2, vậy có lợi hơn là mình mua vé lẻ từng chặng phải không các bác?\nLịch trình 2 đứa một từ Pháp, một từ Đan Mạch qua Italia từ 5/07-7/7 ở Rome; 7/7-9/7 ở Venice => có ai chung time và địa điểm có thể hú nhao tụ nhóm đi tham quan - chụp hình chung cho vui hem nè :D\nCảm ơn và chúc cả nhà cuối tuần vui vẻ!\nP/s hình chống trôi bài, hoa dại ở Pháp, trong vườn hàng xóm :D Ở Pháp nhiều loại hoa nở quanh năm rất quyến rũ. Chỉ cần xách máy hình lang thang các khu phố, công viên là bạn sẽ có bộ ảnh ưng ý rồi á. Điều này lại chính là thứ thu hút & giữ chân Sunny ở đây!\n(Đã bổ sung nhiều hình, hy vọng BQT duyệt bài, lần sau có thời gian sẽ chọn hình đẹp đăng nhiều hơn :D)",
-      "status": 1,
       "counts": {
         "view_count": 17,
         "share_count": 0,
@@ -1907,8 +1777,6 @@
       "create_time": 1656955820,
       "update_time": 1656955820,
       "post_type": 4,
-      "target": "page:1774723903490967560",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -2037,7 +1905,6 @@
       "id": "reib4vx31jfj",
       "user_id": 2000494495,
       "content": "🇹🇭 On Lok Yun - Một địa điểm ăn sáng đã có tuổi đời hơn 80 năm\n📍72 Charoen Krung Road, Wongburapa Phrankorn, Krungthep Maha Nakhon\n⏰ 6:00 - 14:30\nKhách hàng ở đây đa số là người dân Thái có đủ các tầng lớp từ già đến trẻ. (Thực đơn của quán mình có đính kèm theo bài viết)\nỞ đây bán bữa sáng với phong cách Thái và Âu. \nTheo cá nhân mình thấy thì mọi người cũng nên ghé qua và trải nghiệm thử.\nLúc mình đi tầm 8h sáng, có bốc số và chờ tầm 10 phút là được vào bàn ngồi. Mình ăn Kaya Toast, đánh giá cá nhân là bánh mì 🍞 cực kì mềm, mứt Kaya khá là ngon, thơm mùi trứng gà (khác với Kaya Toast bên Sing), giá cả chỉ tầm vài chục bath cho 1 phần ăn.\n🚇 📍 Chỉ cách vài trăm mét sẽ là trạm MRT Sam Yot (đi bộ tầm 3p) rất là tiện luônnn",
-      "status": 1,
       "counts": {
         "view_count": 21,
         "share_count": 0,
@@ -2047,8 +1914,6 @@
       "create_time": 1656955615,
       "update_time": 1656955615,
       "post_type": 4,
-      "target": "page:1774723903490967560",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "video",
@@ -2131,7 +1996,6 @@
       "id": "reib2jx31jfj",
       "user_id": 2000494495,
       "content": "Vck mình và 1 bé 4 tuổi dự định đi Thái 5 ngày 4 đêm trong tháng 8. Ace nào có tour tự túc ít người ( <10 người)  lịch trình ít  hoặc hdv địa phương vì muốn đi kiểu hưởng thụ, nghỉ dưỡng là 9 ( ăn uống, mua sắm, mỗi ngày chỉ đi tham quan 1 điểm nào đó cho bé chơi như safari,...).\nHoặc nhóm bạn nào có kn đi thái tự túc trong tháng 8 đi thì cho mình đi chung cho vui ( trước lạ sau quen 🙂 ). Mình trướ đã đi tour thái theo đoàn giờ muốn dẫn vk con đi theo kiểu hưởng thụ thôi vì nhà có bé nhỏ đi tour đoàn rất cực) \nNhờ mọi người hỗ trợ ạ. \nP/s: bay từ sg",
-      "status": 1,
       "counts": {
         "view_count": 17,
         "share_count": 0,
@@ -2141,8 +2005,6 @@
       "create_time": 1656955531,
       "update_time": 1656955531,
       "post_type": 1,
-      "target": "page:1774723903490967560",
-      "privacy": 1,
       "mediaData": [],
       "user": {
         "id": 56370549,
@@ -2180,7 +2042,6 @@
       "id": "rei9nbx31jfj",
       "user_id": 2000494495,
       "content": "Adm sẽ không duyệt những bài hỏi review khách sạn nữa. Các bạn cần tham khảo review đăng vào đây nhé \n\n#review #khachsan #hotel",
-      "status": 1,
       "counts": {
         "view_count": 30,
         "share_count": 0,
@@ -2190,8 +2051,6 @@
       "create_time": 1656953687,
       "update_time": 1656953687,
       "post_type": 2,
-      "target": "page:1774723903490967560",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -2240,7 +2099,6 @@
       "id": "rei99ox31jfj",
       "user_id": 2000494495,
       "content": "17/06/2022 HAPPY BIRTHDAY\nSáng sớm từ khách sạn bước qua đây tầm 30m, mì thuyền, có 2 quán kế nhau, mà thấy a Khoai ăn quán này nên ăn luôn.",
-      "status": 1,
       "counts": {
         "view_count": 17,
         "share_count": 0,
@@ -2250,8 +2108,6 @@
       "create_time": 1656953196,
       "update_time": 1656953196,
       "post_type": 2,
-      "target": "page:1774723903490967560",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -2300,7 +2156,6 @@
       "id": "rehqj56qj",
       "user_id": 8731,
       "content": "Tóc mới ahiii😀",
-      "status": 1,
       "counts": {
         "view_count": 1289,
         "share_count": 0,
@@ -2310,8 +2165,6 @@
       "create_time": 1656928913,
       "update_time": 1656928913,
       "post_type": 2,
-      "target": "user:8731",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -2373,7 +2226,6 @@
       "id": "rehqdg6qj",
       "user_id": 8731,
       "content": "A thích hoa đại hay hoa hồng😜",
-      "status": 1,
       "counts": {
         "view_count": 1189,
         "share_count": 0,
@@ -2383,8 +2235,6 @@
       "create_time": 1656928709,
       "update_time": 1656928709,
       "post_type": 2,
-      "target": "user:8731",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -2410,7 +2260,6 @@
       "id": "rehjlu1g",
       "user_id": 52,
       "content": "BỘ GD&ĐT ĐỀ XUẤT MIỄN TOÀN BỘ HỌC PHÍ CHO HỌC SINH THCS TRÊN TOÀN QUỐC TỪ NĂM HỌC 2022-2023\r\n\r\nTại Hội nghị trực tuyến Chính phủ với các địa phương diễn ra sáng nay (4/7), Bộ GD-ĐT đã đưa ra đề xuất miễn toàn bộ học phí cho học sinh THCS trên toàn quốc kể từ năm học 2022-2023.\r\n\r\nBộ trưởng Bộ Giáo dục và Đào tạo Nguyễn Kim Sơn cho biết, bộ đang tập trung chuẩn bị tốt nhất để tổ chức kỳ thi THPT quốc gia những ngày tới bảo đảm an toàn, nghiêm túc, chất lượng, công bằng, khách quan.\r\n\r\nNgoài ra, ngành Giáo dục - Đào tạo cũng đang nghiên cứu, thiết kế môn Lịch sử trong chương trình giáo dục cấp trung học phổ thông, bao gồm cả phần bắt buộc và phần lựa chọn một cách hợp lý, khoa học, bảo đảm hiệu quả cao nhất.\r\nBộ Giáo dục và Đào tạo cũng đề xuất miễn toàn bộ học phí cho học sinh THCS trên toàn quốc từ năm học 2022-2023; đang triển khai các chỉ đạo của Chính phủ, Thủ tướng về giá sách giáo khoa.\r\n\r\nLiên quan đến đề xuất miễn toàn bộ học phí cho học sinh THCS trên toàn quốc từ năm học 2022-2023, Thủ tướng Phạm Minh Chính giao các cơ quan phối hợp, nghiên cứu đánh giá kỹ tác động.\r\n\r\nBộ Tài chính tính toán các vấn đề liên quan tới ngân sách, theo tinh thần chung đã được Chính phủ, Thủ tướng chỉ đạo là cần rà soát, có lộ trình điều chỉnh học phí phù hợp, không gây khó khăn hơn cho người dân và học sinh.Miễn học phí cấp THCS không phải đề xuất mới của Bộ GD-ĐT. Năm 2016, Chính phủ đã giao Bộ GD-ĐT chủ trì, phối hợp với Bộ Tài chính xây dựng báo cáo về việc miễn học phí cho học sinh THCS theo lộ trình. Trong đó, nhà nước ưu tiên đầu tư và thu hút các nguồn đầu tư khác cho giáo dục; chăm lo giáo dục mầm non; bảo đảm giáo dục tiểu học là bắt buộc, nhà nước không thu học phí; từng bước phổ cập giáo dục trung học.\r\n\r\nTrước đó, trong năm học 2020-2021, học sinh THCS ở Hải Phòng chính thức được miễn hoàn toàn học phí theo nghị quyết được thành phố thông qua cuối năm 2019. Năm học vừa qua, Hải Phòng cũng là địa phương tiên phong miễn học phí cho học sinh cấp THPT.\r\n\r\n#news #tintuc",
-      "status": 1,
       "counts": {
         "view_count": 67,
         "share_count": 0,
@@ -2420,8 +2269,6 @@
       "create_time": 1656919938,
       "update_time": 1656919938,
       "post_type": 2,
-      "target": "user:52",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -2447,7 +2294,6 @@
       "id": "reh9726qj",
       "user_id": 8731,
       "content": "Bóng dừa râm mát😂",
-      "status": 1,
       "counts": {
         "view_count": 1025,
         "share_count": 0,
@@ -2457,8 +2303,6 @@
       "create_time": 1656906447,
       "update_time": 1656990722,
       "post_type": 2,
-      "target": "user:8731",
-      "privacy": 1,
       "mediaData": [],
       "user": {
         "id": 8731,
@@ -2509,7 +2353,6 @@
       "id": "reh971dij18g",
       "user_id": 817181440,
       "content": "Bất đồng ngôn ngữ! ",
-      "status": 1,
       "counts": {
         "view_count": 905,
         "share_count": 0,
@@ -2519,8 +2362,6 @@
       "create_time": 1656906446,
       "update_time": 1656906446,
       "post_type": 2,
-      "target": "user:817181440",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -2569,7 +2410,6 @@
       "id": "reh7fax31kxh",
       "user_id": 2000496437,
       "content": "Thiên hạ là người không nuôi ta.\r\nKhông cho tiền ta.nhưng rất hay can thiệp vào đời sống của ta",
-      "status": 1,
       "counts": {
         "view_count": 1495,
         "share_count": 0,
@@ -2579,8 +2419,6 @@
       "create_time": 1656904150,
       "update_time": 1656904150,
       "post_type": 2,
-      "target": "user:2000496437",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -2642,7 +2480,6 @@
       "id": "reh78wtmpo4d",
       "user_id": 1791668317,
       "content": "Hãy mua sắm bằng tiền của mình 💰\r\nVà hãy làm những điều mình cho là đúng 👍💪🏻",
-      "status": 1,
       "counts": {
         "view_count": 132,
         "share_count": 0,
@@ -2652,8 +2489,6 @@
       "create_time": 1656903920,
       "update_time": 1656903920,
       "post_type": 2,
-      "target": "user:1791668317",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -2715,7 +2550,6 @@
       "id": "reh6es1g",
       "user_id": 52,
       "content": "CHỒNG BÁN VÀNG ĐỂ TRẢ NỢ VÀ DẤU QUỸ ĐEN XONG NHANH TRÍ BÁO CÔNG AN LÀ BỊ CƯỚP ĐỂ XIN TIỀN VỢ\r\n\r\nÔng H.V.T (SN 1973, trú quậnThanh Khê, Đà Nẵng) đến Công an phường Khuê Trung (quận Cẩm Lệ, TP Đà Nẵng) trình báo về việc bị cướp. Theo ông T, khoảng 5h cùng ngày, ông đi từ nhà đến Chợ đầu mối Hòa Cường để mua rau củ quả về cho vợ bán.\r\n\r\nCó 2 nam thanh niên chạy xe máy Honda Wave giả vờ đến hỏi đường rồi dùng dao kề cổ ông và đe dọa, buộc ông phải đưa sợi dây chuyền vàng 24K, trị giá 10 triệu đồng cho đối tượng. \r\n\r\nNgay khi tiếp nhận tin báo, Công an quận Cẩm Lệ đã nhanh chóng vào cuộc điều tra và tìm nhân chứng, tuy nhiên không ghi nhận các thông tin liên quan. \r\n\r\nTrước những chứng cứ không thể chối cãi mà các trinh sát đưa ra, đến tối 30/6, ông T. đã thừa nhận, do nợ nần không có khả năng chi trả nên ông đã bịa ra vụ việc bị cướp với ý định để xin tiền vợ trả nợ.\r\n\r\nCụ thể,  ông T đã tự mang sợi dây chuyền của mình đến tiệm vàng gần nhà và bán được 9,4 triệu đồng. Số tiền này, ông trả nợ hết gần 1 triệu đồng, còn lại giấu quỹ đen ở ô cầu thang trong nhà rồi dựng chuyện, đến Công an hoang báo bị cướp, nhằm qua mặt vợ…\r\n\r\n#bien",
-      "status": 1,
       "counts": {
         "view_count": 98,
         "share_count": 0,
@@ -2725,8 +2559,6 @@
       "create_time": 1656902836,
       "update_time": 1656902836,
       "post_type": 2,
-      "target": "user:52",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -2752,7 +2584,6 @@
       "id": "reg1mx6qj",
       "user_id": 8731,
       "content": "Biển ồn ào e lại dịu êm ahihi😂",
-      "status": 1,
       "counts": {
         "view_count": 934,
         "share_count": 0,
@@ -2762,8 +2593,6 @@
       "create_time": 1656849993,
       "update_time": 1656897889,
       "post_type": 2,
-      "target": "user:8731",
-      "privacy": 1,
       "mediaData": [],
       "user": {
         "id": 8731,
@@ -2801,7 +2630,6 @@
       "id": "reg1mi6qj",
       "user_id": 8731,
       "content": "Biển ồn ào e lại dịu êm 😂",
-      "status": 1,
       "counts": {
         "view_count": 1068,
         "share_count": 0,
@@ -2811,8 +2639,6 @@
       "create_time": 1656849978,
       "update_time": 1656990732,
       "post_type": 2,
-      "target": "user:8731",
-      "privacy": 1,
       "mediaData": [],
       "user": {
         "id": 8731,
@@ -2863,7 +2689,6 @@
       "id": "re84m2nq",
       "user_id": 854,
       "content": "Tôi không quyết định dc giới tính của mình khi sinh ra , \r\nNhưng ….! Tôi có thể quyết định cách sống của mình trước khi chết đi … \r\nBạn có quyền ghét và thích theo cá nhân bạn , nhưng tôi cũng có quyền Hp và An vui và để ngoài tai mọi thứ kg vui 😇😇😇\r\n#loveyourself",
-      "status": 1,
       "counts": {
         "view_count": 2572,
         "share_count": 0,
@@ -2873,8 +2698,6 @@
       "create_time": 1656480603,
       "update_time": 1656480603,
       "post_type": 3,
-      "target": "user:854",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "video",
@@ -2930,7 +2753,6 @@
       "id": "re6yy3no",
       "user_id": 852,
       "content": "Thanh xuân này có em thật đẹp .\r\n  Chỉ mong những ngày sau này \"luon co nhau'' \r\n.....thương Em ! \r\n#loveyourself",
-      "status": 1,
       "counts": {
         "view_count": 2268,
         "share_count": 0,
@@ -2940,8 +2762,6 @@
       "create_time": 1656426603,
       "update_time": 1656426603,
       "post_type": 4,
-      "target": "user:852",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -3020,7 +2840,6 @@
       "id": "rdrltbno",
       "user_id": 852,
       "content": "CẢM ƠN BỐ…!!!\r\n❤ Khi con còn thơ bé, bố công kênh con lên cổ để nhìn ngắm thế giới rộng lớn và đưa bàn tay to lớn dắt con đi những bước đầu đời.\r\n❤ Khi con đến trường, bố dạy con về đất nước đẹp xinh với những con người nhân hậu, về sự tự tế, niềm tin và những nỗ lực để cháy với đam mê, gặt hái thành công. \r\n❤ Khi con lớn hơn và xa gia đình, bố chỉ cho con về mái nhà nơi có bố mẹ luôn chờ con trở về an yên.\r\n❤ Tất cả những khoảnh khắc quan trọng của cuộc đời con đều có sự hiện diện của bố. Cảm ơn bố đã cùng mẹ luôn ở phía sau làm nơi nương tựa cho cuộc đời con.\r\n#bolatatca",
-      "status": 1,
       "counts": {
         "view_count": 2448,
         "share_count": 0,
@@ -3030,8 +2849,6 @@
       "create_time": 1655709743,
       "update_time": 1655709743,
       "post_type": 2,
-      "target": "user:852",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -3057,7 +2874,6 @@
       "id": "rdmayalffgzt",
       "user_id": 1295705801,
       "content": "android",
-      "status": 1,
       "counts": {
         "view_count": 32,
         "share_count": 0,
@@ -3067,8 +2883,6 @@
       "create_time": 1655462386,
       "update_time": 1655462386,
       "post_type": 2,
-      "target": "user:1295705801",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "image",
@@ -3094,7 +2908,6 @@
       "id": "rdmanelffgzt",
       "user_id": 1295705801,
       "content": "ahihi",
-      "status": 1,
       "counts": {
         "view_count": 89,
         "share_count": 0,
@@ -3104,8 +2917,6 @@
       "create_time": 1655461994,
       "update_time": 1655461994,
       "post_type": 3,
-      "target": "user:1295705801",
-      "privacy": 1,
       "mediaData": [
         {
           "type": "video",
