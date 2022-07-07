@@ -1,207 +1,167 @@
 {
-  "id": "rel9sqx31jfj",
-  "title": "",
-  "content": "Đến Hàn Quốc nhớ đi thử chuyến tàu có view đẹp như phim này!! \n\nNói là đẹp như phim vì Haeundae Blueline Park chạy trên đường ray ôm lấy bờ biển phía Đông Nam thành phố khiến chúng ta có thể ngắm toàn cảnh biển xanh trong vắt từ trước mặt, đằng trước, đằng sau khoang ngồi và cả những thị trấn, hải cảng ven biển nữa  🌊🌅 \n\nBờ biển ở đây tuyệt đẹp rồi, lại thêm những khoảnh khắc bình minh hoặc hoàng hôn nữa càng khiến cho chuyến tàu Haeundae Blueline Park thêm lý tưởng và được nhiều bạn trẻ mua vé đi thử. \n\nTàu sẽ đi từ ga Mipo và kết thúc ở Songjeong với tổng quãng đường chỉ 4.8km. Bạn có thể chọn dịch vụ Beach train hoặc Sky capsule cho 1 hoặc cả 2 chiều đi và về nhưng lí tưởng nhất là sử dụng combo cả 2 để gấp đôi trải nghiệm nha 🤘 Tàu đi khá chậm, mất 30p để hoàn thành 1 chiều nên không lo bị say xe đâu. \n\nChúng mình nên đi vào 5h30 6h00 để được ngắm hoàng hôn rực rỡ từ trên tàu nha ^^\n\n(ảnh: rereon_, onlyxwon, hyoshinkwak, abroadmagazine_kr, parkhyattbusan, h.woni67)\n#CheckinVietnam #Korea #HaeundaeBluelinePark #nan",
-  "mention": [],
-  "status": 1,
+  "id": "rela3jx31jfj",
+  "user_id": 2000494495,
+  "content": "Một quán cafe nhỏ yên bình nằm nghe sóng vỗ ở Phan Thiết 🌊🏄♂️\n—-\n📸 Ảnh siêu xinh của bạn Cường Quốc Phạm\n\n#CheckinVietNam #CheckinPhanThiet #Chin",
   "counts": {
-    "comment_count": 1,
-    "view_count": 23,
+    "view_count": 12,
     "share_count": 0,
-    "react_count": 12
+    "comment_count": 1,
+    "react_count": 7
+  },
+  "create_time": 1657094239,
+  "update_time": 1657094239,
+  "post_type": 4,
+  "mediaData": [
+    {
+      "type": "image",
+      "image_id": "43f74db2-9a6c-406a-aa2a-56a4758bb802",
+      "store": "image-5.gapo.vn",
+      "path": "images/43f74db2-9a6c-406a-aa2a-56a4758bb802.jpg",
+      "src": "https://image-5.gapo.vn/images/43f74db2-9a6c-406a-aa2a-56a4758bb802.jpg",
+      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/43f74db2-9a6c-406a-aa2a-56a4758bb802.jpg",
+      "width": null,
+      "height": null
+    },
+    {
+      "type": "image",
+      "image_id": "7e7610c3-f595-485f-9e4a-82ad96935fb6",
+      "store": "image-5.gapo.vn",
+      "path": "images/7e7610c3-f595-485f-9e4a-82ad96935fb6.jpg",
+      "src": "https://image-5.gapo.vn/images/7e7610c3-f595-485f-9e4a-82ad96935fb6.jpg",
+      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/7e7610c3-f595-485f-9e4a-82ad96935fb6.jpg",
+      "width": 720,
+      "height": 720
+    },
+    {
+      "type": "image",
+      "image_id": "f76b1d04-56b5-402e-97df-93228a457634",
+      "store": "image-5.gapo.vn",
+      "path": "images/f76b1d04-56b5-402e-97df-93228a457634.jpg",
+      "src": "https://image-5.gapo.vn/images/f76b1d04-56b5-402e-97df-93228a457634.jpg",
+      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/f76b1d04-56b5-402e-97df-93228a457634.jpg",
+      "width": 720,
+      "height": 531
+    },
+    {
+      "type": "image",
+      "image_id": "2b817a8a-a6a7-4bea-a9b7-5efa2382fb84",
+      "store": "image-5.gapo.vn",
+      "path": "images/2b817a8a-a6a7-4bea-a9b7-5efa2382fb84.jpg",
+      "src": "https://image-5.gapo.vn/images/2b817a8a-a6a7-4bea-a9b7-5efa2382fb84.jpg",
+      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/2b817a8a-a6a7-4bea-a9b7-5efa2382fb84.jpg",
+      "width": 720,
+      "height": 483
+    },
+    {
+      "type": "image",
+      "image_id": "aee5431f-ab6c-491b-b7a3-59ae28a7ba20",
+      "store": "image-5.gapo.vn",
+      "path": "images/aee5431f-ab6c-491b-b7a3-59ae28a7ba20.jpg",
+      "src": "https://image-5.gapo.vn/images/aee5431f-ab6c-491b-b7a3-59ae28a7ba20.jpg",
+      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/aee5431f-ab6c-491b-b7a3-59ae28a7ba20.jpg",
+      "width": 720,
+      "height": 494
+    },
+    {
+      "type": "image",
+      "image_id": "e59e60af-f6dc-4213-8aac-6a80be6caeb3",
+      "store": "image-5.gapo.vn",
+      "path": "images/e59e60af-f6dc-4213-8aac-6a80be6caeb3.jpg",
+      "src": "https://image-5.gapo.vn/images/e59e60af-f6dc-4213-8aac-6a80be6caeb3.jpg",
+      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/e59e60af-f6dc-4213-8aac-6a80be6caeb3.jpg",
+      "width": 720,
+      "height": 540
+    },
+    {
+      "type": "image",
+      "image_id": "94d80e61-9eb1-4a05-802d-f4a3cfc60c35",
+      "store": "image-5.gapo.vn",
+      "path": "images/94d80e61-9eb1-4a05-802d-f4a3cfc60c35.jpg",
+      "src": "https://image-5.gapo.vn/images/94d80e61-9eb1-4a05-802d-f4a3cfc60c35.jpg",
+      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/94d80e61-9eb1-4a05-802d-f4a3cfc60c35.jpg",
+      "width": 720,
+      "height": 466
+    },
+    {
+      "type": "image",
+      "image_id": "f80b2769-db2c-47f8-b250-77b17bb1e97f",
+      "store": "image-5.gapo.vn",
+      "path": "images/f80b2769-db2c-47f8-b250-77b17bb1e97f.jpg",
+      "src": "https://image-5.gapo.vn/images/f80b2769-db2c-47f8-b250-77b17bb1e97f.jpg",
+      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/f80b2769-db2c-47f8-b250-77b17bb1e97f.jpg",
+      "width": 540,
+      "height": 720
+    },
+    {
+      "type": "image",
+      "image_id": "8607d622-0b35-4294-9927-b065b131e6dc",
+      "store": "image-5.gapo.vn",
+      "path": "images/8607d622-0b35-4294-9927-b065b131e6dc.jpg",
+      "src": "https://image-5.gapo.vn/images/8607d622-0b35-4294-9927-b065b131e6dc.jpg",
+      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/8607d622-0b35-4294-9927-b065b131e6dc.jpg",
+      "width": 720,
+      "height": 540
+    },
+    {
+      "type": "image",
+      "image_id": "b781bc12-2e71-48d4-9b17-cad0321fb36c",
+      "store": "image-5.gapo.vn",
+      "path": "images/b781bc12-2e71-48d4-9b17-cad0321fb36c.jpg",
+      "src": "https://image-5.gapo.vn/images/b781bc12-2e71-48d4-9b17-cad0321fb36c.jpg",
+      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/b781bc12-2e71-48d4-9b17-cad0321fb36c.jpg",
+      "width": 559,
+      "height": 720
+    },
+    {
+      "type": "image",
+      "image_id": "8ac2d42c-7764-46b9-ab9e-b85095e72b42",
+      "store": "image-5.gapo.vn",
+      "path": "images/8ac2d42c-7764-46b9-ab9e-b85095e72b42.jpg",
+      "src": "https://image-5.gapo.vn/images/8ac2d42c-7764-46b9-ab9e-b85095e72b42.jpg",
+      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/8ac2d42c-7764-46b9-ab9e-b85095e72b42.jpg",
+      "width": 720,
+      "height": 551
+    },
+    {
+      "type": "image",
+      "image_id": "19c97f76-84ee-4295-a90f-bbd529c87e84",
+      "store": "image-5.gapo.vn",
+      "path": "images/19c97f76-84ee-4295-a90f-bbd529c87e84.jpg",
+      "src": "https://image-5.gapo.vn/images/19c97f76-84ee-4295-a90f-bbd529c87e84.jpg",
+      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/19c97f76-84ee-4295-a90f-bbd529c87e84.jpg",
+      "width": 720,
+      "height": 540
+    }
+  ],
+  "user": {
+    "id": 56370549,
+    "display_name": "Vân Anh",
+    "cover": "",
+    "avatar": "https://image-2.gapo.vn/images/6e684d92-be85-4657-ad75-61b9acb780bd.jpeg"
   },
   "comments": [
     {
-      "id": "rel9v4x31m8a",
-      "post_id": "rel9sqx31jfj",
+      "id": "rela65ke09g5",
+      "post_id": "rela3jx31jfj",
       "parent_id": "0",
-      "content": "Năm sau nhất định sẽ đi Hàn Quốc ❤️",
-      "mention": [],
-      "react_count": {
-        "react_type_1": 0,
-        "react_type_2": 0,
-        "react_type_3": 0,
-        "react_type_4": 0,
-        "react_type_5": 0,
-        "react_type_6": 0
-      },
+      "content": "Quán xinh, nước rẻ, gửi xe miễn phí ♥️",
       "mediaData": [],
       "status": 1,
       "counts": {
         "react_count": 0,
         "reply_count": 0
       },
-      "reply": [],
-      "create_time": 1657093936,
+      "create_time": 1657094333,
       "update_time": null,
-      "react_status": "",
+      "comment_as": "user:1232850389",
       "user": {
-        "id": 2000498122,
-        "display_name": "Giang Phạm",
-        "cover": "https://image-5.gapo.vn/images/f7346381-1c15-4d1f-bf9d-d257a6371814.jpeg",
-        "avatar": "https://image-1.gapo.vn/images/3e3d284f-7186-4068-8572-17dc8b23de1e.jpeg",
-        "link_profile": "",
-        "status": 1,
-        "status_kyc": 0,
-        "status_verify": 0,
-        "workspace_account": 0,
-        "avatar_thumb_pattern": "https://cdn-thumb-image-1.gapo.vn/$size$/smart/3e3d284f-7186-4068-8572-17dc8b23de1e.jpeg",
-        "cover_thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/f7346381-1c15-4d1f-bf9d-d257a6371814.jpeg"
-      }
+        "id": 1232850389,
+        "display_name": "Hương Hương",
+        "cover": "https://image-5.gapo.vn/images/ef3e8f63-bddf-4a14-9d44-5a8a0abae7f0.jpeg",
+        "avatar": "https://image-1.gapo.vn/images/eb1e77ed-daa7-47f0-b1a7-96d3f09a0c5c.jpeg"
+      },
+      "react_status": 0
     }
   ],
-  "create_time": 1657093851,
-  "update_time": 1657093851,
-  "post_type": 4,
-  "target": "page:1774723903490967560",
-  "privacy": 1,
-  "mediaData": [
-    {
-      "type": "image",
-      "image_id": "35b2a494-3d13-4347-b498-0371654d387e",
-      "store": "image-5.gapo.vn",
-      "path": "images/35b2a494-3d13-4347-b498-0371654d387e.jpg",
-      "src": "https://image-5.gapo.vn/images/35b2a494-3d13-4347-b498-0371654d387e.jpg",
-      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/35b2a494-3d13-4347-b498-0371654d387e.jpg",
-      "width": 576,
-      "height": 720
-    },
-    {
-      "type": "image",
-      "image_id": "dd3b9520-7131-45c6-b173-453014efa797",
-      "store": "image-5.gapo.vn",
-      "path": "images/dd3b9520-7131-45c6-b173-453014efa797.jpg",
-      "src": "https://image-5.gapo.vn/images/dd3b9520-7131-45c6-b173-453014efa797.jpg",
-      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/dd3b9520-7131-45c6-b173-453014efa797.jpg",
-      "width": 576,
-      "height": 720
-    },
-    {
-      "type": "image",
-      "image_id": "1c6f3663-fca9-4ded-8e5c-bdd445d89442",
-      "store": "image-5.gapo.vn",
-      "path": "images/1c6f3663-fca9-4ded-8e5c-bdd445d89442.jpg",
-      "src": "https://image-5.gapo.vn/images/1c6f3663-fca9-4ded-8e5c-bdd445d89442.jpg",
-      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/1c6f3663-fca9-4ded-8e5c-bdd445d89442.jpg",
-      "width": 621,
-      "height": 720
-    },
-    {
-      "type": "image",
-      "image_id": "ce5a133c-edf4-40cf-8190-04f6cea4e90d",
-      "store": "image-5.gapo.vn",
-      "path": "images/ce5a133c-edf4-40cf-8190-04f6cea4e90d.jpg",
-      "src": "https://image-5.gapo.vn/images/ce5a133c-edf4-40cf-8190-04f6cea4e90d.jpg",
-      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/ce5a133c-edf4-40cf-8190-04f6cea4e90d.jpg",
-      "width": 720,
-      "height": 706
-    },
-    {
-      "type": "image",
-      "image_id": "5868deb0-1dce-4440-9e5b-7afe719ae964",
-      "store": "image-5.gapo.vn",
-      "path": "images/5868deb0-1dce-4440-9e5b-7afe719ae964.jpg",
-      "src": "https://image-5.gapo.vn/images/5868deb0-1dce-4440-9e5b-7afe719ae964.jpg",
-      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/5868deb0-1dce-4440-9e5b-7afe719ae964.jpg",
-      "width": 647,
-      "height": 720
-    },
-    {
-      "type": "image",
-      "image_id": "f742bd1b-5afd-4ff6-94c5-9ee44f69b45d",
-      "store": "image-5.gapo.vn",
-      "path": "images/f742bd1b-5afd-4ff6-94c5-9ee44f69b45d.jpg",
-      "src": "https://image-5.gapo.vn/images/f742bd1b-5afd-4ff6-94c5-9ee44f69b45d.jpg",
-      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/f742bd1b-5afd-4ff6-94c5-9ee44f69b45d.jpg",
-      "width": 676,
-      "height": 720
-    },
-    {
-      "type": "image",
-      "image_id": "ce3d6723-7919-4088-98c7-894147bcdffd",
-      "store": "image-5.gapo.vn",
-      "path": "images/ce3d6723-7919-4088-98c7-894147bcdffd.jpg",
-      "src": "https://image-5.gapo.vn/images/ce3d6723-7919-4088-98c7-894147bcdffd.jpg",
-      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/ce3d6723-7919-4088-98c7-894147bcdffd.jpg",
-      "width": 604,
-      "height": 720
-    },
-    {
-      "type": "image",
-      "image_id": "68f29d66-2510-42c1-b5e2-2d0c8e9dcb50",
-      "store": "image-5.gapo.vn",
-      "path": "images/68f29d66-2510-42c1-b5e2-2d0c8e9dcb50.jpg",
-      "src": "https://image-5.gapo.vn/images/68f29d66-2510-42c1-b5e2-2d0c8e9dcb50.jpg",
-      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/68f29d66-2510-42c1-b5e2-2d0c8e9dcb50.jpg",
-      "width": 582,
-      "height": 720
-    },
-    {
-      "type": "image",
-      "image_id": "22ba0955-e8d7-417c-9725-049216b32104",
-      "store": "image-5.gapo.vn",
-      "path": "images/22ba0955-e8d7-417c-9725-049216b32104.jpg",
-      "src": "https://image-5.gapo.vn/images/22ba0955-e8d7-417c-9725-049216b32104.jpg",
-      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/22ba0955-e8d7-417c-9725-049216b32104.jpg",
-      "width": 577,
-      "height": 720
-    },
-    {
-      "type": "image",
-      "image_id": "d84012f5-c873-4ffa-8eeb-6dcfa21ddcdb",
-      "store": "image-5.gapo.vn",
-      "path": "images/d84012f5-c873-4ffa-8eeb-6dcfa21ddcdb.jpg",
-      "src": "https://image-5.gapo.vn/images/d84012f5-c873-4ffa-8eeb-6dcfa21ddcdb.jpg",
-      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/d84012f5-c873-4ffa-8eeb-6dcfa21ddcdb.jpg",
-      "width": 576,
-      "height": 720
-    },
-    {
-      "type": "image",
-      "image_id": "058fbd7d-8e75-4bfe-bd83-1a3551498414",
-      "store": "image-5.gapo.vn",
-      "path": "images/058fbd7d-8e75-4bfe-bd83-1a3551498414.png",
-      "src": "https://image-5.gapo.vn/images/058fbd7d-8e75-4bfe-bd83-1a3551498414.png",
-      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/058fbd7d-8e75-4bfe-bd83-1a3551498414.png",
-      "width": 576,
-      "height": 720
-    },
-    {
-      "type": "image",
-      "image_id": "9a5ed30c-3646-47bf-bffc-de1f34402328",
-      "store": "image-5.gapo.vn",
-      "path": "images/9a5ed30c-3646-47bf-bffc-de1f34402328.jpg",
-      "src": "https://image-5.gapo.vn/images/9a5ed30c-3646-47bf-bffc-de1f34402328.jpg",
-      "thumb_pattern": "https://cdn-thumb-image-5.gapo.vn/$size$/smart/9a5ed30c-3646-47bf-bffc-de1f34402328.jpg",
-      "width": 584,
-      "height": 720
-    }
-  ],
-  "page": {
-    "id": "1774723903490967560",
-    "page_id": "1774723903490967560",
-    "type": 11,
-    "title": "Du Lịch Đó Đây",
-    "alias": "pwcyee7e1u",
-    "avatar": "https://image-1.gapo.vn/images/46d2d56a-e0a6-47e6-8322-993c514e8f76.jpeg",
-    "avatar_thumb_pattern": "https://cdn-thumb-image-1.gapo.vn/$size$/smart/46d2d56a-e0a6-47e6-8322-993c514e8f76.jpeg",
-    "cover": null,
-    "cover_thumb_pattern": "",
-    "status_verify": 0,
-    "is_like": 1
-  },
-  "react_count": {
-    "react_type_1": 11,
-    "react_type_2": 0,
-    "react_type_3": 1,
-    "react_type_4": 0,
-    "react_type_5": 0,
-    "react_type_6": 0,
-    "react_type_7": 0,
-    "react_type_8": 0,
-    "react_type_9": 0,
-    "react_type_10": 0,
-    "react_type_11": 0
-  },
   "react_status": 0
 }
