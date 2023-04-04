@@ -29,6 +29,8 @@ lint:
   stage: lint
   script:
     - cd /root/android-app
+    - git branch -d master
+    - git checkout master
     - git checkout $CI_MERGE_REQUEST_TARGET_BRANCH_NAME; git pull
     - git submodule update --init --remote $CI_MODULE_PATH
     - git submodule update --init --remote aar-center
