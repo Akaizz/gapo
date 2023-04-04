@@ -29,6 +29,7 @@ lint:
   stage: lint
   script:
     - cd /root/android-app
+    - git checkout develop
     - git branch -d master
     - git checkout master
     - git checkout $CI_MERGE_REQUEST_TARGET_BRANCH_NAME; git pull
