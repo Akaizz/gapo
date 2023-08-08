@@ -1,0 +1,137 @@
+image: registry.gapo.com.vn/android-work/android-ci-base-image:android-ndk
+
+before_script:
+  - export GRADLE_USER_HOME=.gradle
+  - mkdir $GRADLE_USER_HOME
+  - mv -v /root/.ssh.origin/* ~/.ssh
+  - git config --global user.email "binhnd@gapo.vn"
+  - git config --global user.name "android_submodule_ci"
+  - git config --global pull.rebase false
+    
+stages:
+  - bypass-ci
+  - lint
+  - build-test
+  - build
+
+bypass-ci:
+  stage: bypass-ci
+  script:
+    - echo "OK! Fine"
+  tags:
+    - android
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "merge_request_event" && $CI_MERGE_REQUEST_TARGET_BRANCH_NAME != "develop" && $CI_MERGE_REQUEST_TARGET_BRANCH_NAME != "master"
+      when: always
+
+
+lint:
+  stage: lint
+  script:
+    - cd /root/android-app
+    - git fetch origin
+    - git reset --hard origin/master
+    - git submodule foreach --recursive git reset --hard origin/master
+    - git checkout $CI_MERGE_REQUEST_TARGET_BRANCH_NAME; git pull
+    - git submodule update --init --remote $CI_MODULE_PATH
+    - git submodule update --init --remote aar-center
+    - cd aar-center
+    - git checkout $CI_MERGE_REQUEST_TARGET_BRANCH_NAME; git pull
+    - cd /root/android-app
+    - |
+      cat <<EOF>> local.properties
+      useAARForDevBuild=true
+      devModules=:app $CI_MODULE_GRADLE_TASK
+      EOF
+    - cd $CI_MODULE_PATH	
+    - git fetch --all
+    - git checkout $CI_MERGE_REQUEST_SOURCE_BRANCH_NAME
+    - git reset --hard origin/$CI_MERGE_REQUEST_SOURCE_BRANCH_NAME
+    - git pull
+    - cd /root/android-app
+    - ./gradlew clean
+    - ./gradlew --stop
+    - ./gradlew $CI_MODULE_GRADLE_TASK:ktlintCheck
+  tags:
+    - android
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "merge_request_event" && ($CI_MERGE_REQUEST_TARGET_BRANCH_NAME == "develop" || ($CI_MERGE_REQUEST_TARGET_BRANCH_NAME == "master" && $CI_MERGE_REQUEST_SOURCE_BRANCH_NAME != "develop"))'
+      when: always
+
+
+build-test:
+  stage: build-test
+  script:
+    - cd /root/android-app
+    - git checkout $CI_MERGE_REQUEST_TARGET_BRANCH_NAME; git pull
+    - git submodule update --init --remote $CI_MODULE_PATH
+    - git submodule update --init --remote aar-center
+    - cd aar-center
+    - git checkout $CI_MERGE_REQUEST_TARGET_BRANCH_NAME; git pull
+    - cd /root/android-app
+    - |
+      cat <<EOF>> local.properties
+      useAARForDevBuild=true
+      devModules=:app $CI_MODULE_GRADLE_TASK
+      EOF
+    - cd $CI_MODULE_PATH
+    - git fetch --all
+    - git checkout $CI_MERGE_REQUEST_SOURCE_BRANCH_NAME
+    - git reset --hard origin/$CI_MERGE_REQUEST_SOURCE_BRANCH_NAME
+    - git pull
+    - cd /root/android-app
+    - ./gradlew clean
+    - ./gradlew --stop
+    - ./gradlew $CI_MODULE_GRADLE_TASK:assembleDebug --no-configuration-cache
+  tags:
+    - android
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "merge_request_event" && ($CI_MERGE_REQUEST_TARGET_BRANCH_NAME == "develop" || ($CI_MERGE_REQUEST_TARGET_BRANCH_NAME == "master" && $CI_MERGE_REQUEST_SOURCE_BRANCH_NAME != "	"))'
+      when: on_success
+
+
+.build-aar-template:
+  stage: build
+  script:
+    - cd /root/android-app
+    - git checkout $CI_COMMIT_REF_NAME; git pull
+    - git submodule update --init --remote aar-center
+    - git submodule update --init --remote $CI_MODULE_PATH
+    - cd $CI_MODULE_PATH
+    - git fetch --all
+    - git checkout $CI_COMMIT_REF_NAME
+    - git reset --hard origin/$CI_COMMIT_REF_NAME
+    - git pull
+    - cd /root/android-app
+    - cd aar-center
+    - git checkout $CI_COMMIT_REF_NAME; git pull
+    - cd /root/android-app
+    - |
+      cat <<EOF>> local.properties
+      useAARForDevBuild=true
+      devModules=:app $CI_MODULE_GRADLE_TASK
+      EOF
+    - ./gradlew clean
+    - ./gradlew --stop
+    - ./gradlew publishAarPublicationToMavenRepository -PuseAARForDevBuild=true
+    - cd aar-center
+    - git add .
+    - git commit -m "ANDROID $CI_PROJECT_NAME AAR"
+    - git push origin $CI_COMMIT_REF_NAME
+  tags:
+    - android
+
+build-aar-develop:
+  extends: .build-aar-template
+  only:
+    - develop
+
+build-aar-master:
+  extends: .build-aar-template
+  only:
+    - master
+
+after_script:
+    - cd /root/android-app
+    - rm -f local.properties
+1
