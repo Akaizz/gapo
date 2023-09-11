@@ -104,6 +104,7 @@ build-test:
     - git pull
     - cd /root/android-app
     - cd aar-center
+    - git reset --hard origin/master
     - git checkout $CI_COMMIT_REF_NAME; git pull
     - cd /root/android-app
     - |
