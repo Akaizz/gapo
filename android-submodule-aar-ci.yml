@@ -30,8 +30,8 @@ lint:
   script:
     - cd /root/android-app
     - git fetch origin
-    - git reset --hard origin/master
-    - git submodule foreach --recursive git reset --hard origin/master
+    - git reset --hard origin/develop
+    - git submodule foreach --recursive git reset --hard origin/develop
     - git checkout $CI_MERGE_REQUEST_TARGET_BRANCH_NAME; git pull
     - git submodule update --init --remote $CI_MODULE_PATH
     - git submodule update --init --remote aar-center
@@ -67,7 +67,6 @@ build-test:
     - git submodule update --init --remote $CI_MODULE_PATH
     - git submodule update --init --remote aar-center
     - cd aar-center
-    - git reset --hard origin/master
     - git checkout $CI_MERGE_REQUEST_TARGET_BRANCH_NAME; git pull
     - cd /root/android-app
     - |
@@ -105,7 +104,6 @@ build-test:
     - git pull
     - cd /root/android-app
     - cd aar-center
-    - git reset --hard origin/master
     - git checkout $CI_COMMIT_REF_NAME; git pull
     - cd /root/android-app
     - |
