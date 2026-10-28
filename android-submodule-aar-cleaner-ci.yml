@@ -3,7 +3,9 @@ image: registry.gapo.com.vn/android-work/android-ci-base-image:android-ndk
 before_script:
   - export GRADLE_USER_HOME=.gradle
   - mkdir $GRADLE_USER_HOME
-  - mv -v /root/.ssh.origin/* ~/.ssh
+  - echo "$SSH_PRIVATE_KEY" | tr -d '\r' > /tmp/ci_id_rsa
+  - chmod 600 /tmp/ci_id_rsa
+  - export GIT_SSH_COMMAND="ssh -i /tmp/ci_id_rsa -o IdentitiesOnly=yes -o StrictHostKeyChecking=no"
   - git config --global user.email "binhnd@gapo.vn"
   - git config --global user.name "android_submodule_ci"
   - git config --global pull.rebase false
